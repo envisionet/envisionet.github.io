@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+}
+.wrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
+.logo {
+  font-size: 300%;
+  color: #fff;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+.logo .b {
+  font-family: 'Josefin Sans', sans-serif;
+  color: orange;
+  margin: 0 5px;
+  font-size: 120%;
+}
+.logo .t {
+  font-size: 40%;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
